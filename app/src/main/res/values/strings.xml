@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">birthdayCardApp</string>
+    <string name="happy_birhtday_text">Happy 36th Birthday Kendra!</string>
+    <string name="signature_text"><![CDATA[From: Me, Myself & I]]></string>
+</resources>
